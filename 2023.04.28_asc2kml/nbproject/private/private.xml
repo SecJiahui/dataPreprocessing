@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/PSWF.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/Asc2Kml.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/GPSCoordinate.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/VehicleProperties.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/STREETTYPE.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/VehicleOdometry.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/PositionFingerprint.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/ExitTrigger.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/LIDSTATE.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/AscParser.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/KmlWriter.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/PSWFStateChange.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/AveragedBuffer.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/Landmarks.java</file>
+            <file>file:/C:/Nagy/NetBeansProjects/asc2kml/src/asc2kml/ADASSegment.java</file>
+        </group>
+    </open-files>
+</project-private>
